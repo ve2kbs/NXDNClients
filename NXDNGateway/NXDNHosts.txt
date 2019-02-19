@@ -73,3 +73,6 @@
 
 # French-Test, 65208
 65208	m55.evxonline.net  41400
+
+#Canada-French, 65302
+65302 nxdn.ddns.net 41400
